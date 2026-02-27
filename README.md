@@ -40,6 +40,6 @@ This project automates financial reconciliation and compliance monitoring by com
 ###🔹 Step 5: Visualization (Power BI)
 
 - Executive Summary → Reconciliation % trends, issue counts.
-- Invoice Audit & Risk Insights → Exceptions by type/severity, compliance issue tables.
+- Invoice Audit & Risk Insights → Exceptions by type, compliance issue tables.
 
 
